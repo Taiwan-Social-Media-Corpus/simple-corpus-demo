@@ -1,0 +1,93 @@
+{
+  "documentPath": "//TEI.2",
+  "annotatedFields": {
+    "contents": {
+      "displayName": "Contents",
+      "description": "Contents of the documents.",
+      "containerPath": ".//text",
+      "wordPath": ".//w",
+      "annotations": [
+        {
+          "name": "word",
+          "displayName": "Word",
+          "valuePath": ".",
+          "sensitivity": "sensitive_insensitive"
+        },
+        {
+          "name": "pos",
+          "displayName": "PoS",
+          "valuePath": "@type"
+        }
+      ],
+      "inlineTags": [
+        {
+          "path": ".//s",
+          "displayAs": "sentence"
+        },
+        {
+          "path": ".//title",
+          "displayAs": "title"
+        },
+        {
+          "path": ".//body",
+          "displayAs": "body"
+        },
+        {
+          "path": ".//comment",
+          "displayAs": "comment"
+        }
+      ]
+    }
+  },
+  "metadata": {
+    "containerPath": "teiHeader",
+    "fields": [
+      {
+        "name": "media",
+        "uiType": "text",
+        "valuePath": "metadata[@name=\"media\"]",
+        "type": "untokenized"
+      },
+      {
+        "name": "board",
+        "uiType": "select",
+        "valuePath": "metadata[@name=\"board\"]",
+        "type": "untokenized"
+      },
+      {
+        "name": "docId",
+        "uiType": "text",
+        "valuePath": "metadata[@name=\"post_id\"]",
+        "type": "untokenized"
+      },
+      {
+        "name": "title",
+        "uiType": "text",
+        "valuePath": "metadata[@name=\"title\"]",
+        "type": "untokenized"
+      },
+      {
+        "name": "author",
+        "uiType": "text",
+        "valuePath": "metadata[@name=\"author\"]",
+        "type": "untokenized"
+      },
+      {
+        "name": "year",
+        "uiType": "range",
+        "valuePath": "metadata[@name=\"year\"]",
+        "type": "numeric"
+      }
+    ]
+  },
+  "corpusConfig": {
+    "displayName": "Taiwan Social Media Corpus",
+    "specialFields": {
+      "mediaField": "media",
+      "pidField": "docId",
+      "titleField": "title",
+      "authorField": "author",
+      "dateField": "year"
+    }
+  }
+}
