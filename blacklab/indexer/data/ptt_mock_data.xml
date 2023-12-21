@@ -1,0 +1,121 @@
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">ptt</metadata>
+      <metadata name="author">SamShik (三順喔膩)</metadata>
+      <metadata name="post_id">M.1698347524.A.A15</metadata>
+      <metadata name="year">2023</metadata>
+      <metadata name="board">LAW-ptt</metadata>
+      <metadata name="title">[問題] 修復式司法的國內權威文獻</metadata>
+   </teiHeader>
+   <text>
+      <body author="SamShik (三順喔膩)">
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nc">國內</w>
+            <w type="VE">研究</w>
+            <w type="A">修復式</w>
+            <w type="Na">司法</w>
+            <w type="DE">的</w>
+            <w type="P">較</w>
+            <w type="Na">權威</w>
+            <w type="DE">的</w>
+            <w type="Na">文獻</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">哪些</w>
+         </s>
+         <s>
+            <w type="Cbb">因為</w>
+            <w type="VC">找</w>
+            <w type="Di">了</w>
+            <w type="Neu">幾</w>
+            <w type="Nf">篇</w>
+            <w type="Na">文獻</w>
+            <w type="D">大概</w>
+            <w type="D">都</w>
+            <w type="SHI">是</w>
+            <w type="P">跟</w>
+            <w type="Neqa">其他</w>
+            <w type="Na">領域</w>
+            <w type="VB">疊合</w>
+            <w type="DE">的</w>
+         </s>
+         <s>
+            <w type="P">例如</w>
+            <w type="Na">少事法</w>
+            <w type="WHITESPACE"> </w>
+            <w type="Na">家暴</w>
+         </s>
+         <s>
+            <w type="Cbb">但</w>
+            <w type="D">也</w>
+            <w type="VE">想</w>
+            <w type="VC">找</w>
+            <w type="P">針對</w>
+            <w type="Na">修復式</w>
+            <w type="Na">司法</w>
+            <w type="Na">理論</w>
+            <w type="DE">的</w>
+            <w type="Na">文獻</w>
+         </s>
+         <s>
+            <w type="VE">請問</w>
+            <w type="Nc">國內</w>
+            <w type="V_2">有</w>
+            <w type="Neqa">哪些</w>
+            <w type="Na">學者</w>
+            <w type="DE">的</w>
+            <w type="Na">文獻</w>
+            <w type="D">可</w>
+            <w type="VC">參考</w>
+            <w type="T">呢</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </body>
+      <title author="SamShik (三順喔膩)">
+         <s>
+            <w type="PARENTHESISCATEGORY">[</w>
+            <w type="Na">問題</w>
+            <w type="PARENTHESISCATEGORY">]</w>
+            <w type="WHITESPACE"> </w>
+            <w type="A">修復式</w>
+            <w type="Na">司法</w>
+            <w type="DE">的</w>
+            <w type="Nc">國內</w>
+            <w type="Na">權威</w>
+            <w type="Na">文獻</w>
+         </s>
+      </title>
+      <comment author="Lailungsheng" c_type="pos">
+         <s>
+            <w type="Nd">昨天</w>
+            <w type="P">在</w>
+            <w type="Na">八卦</w>
+            <w type="VE">看到</w>
+            <w type="Neu">一</w>
+            <w type="Nf">個</w>
+            <w type="Na">說法</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="V_2">有</w>
+            <w type="Nf">個</w>
+            <w type="Na">法官</w>
+            <w type="D">要</w>
+            <w type="P">被</w>
+            <w type="VC">害</w>
+            <w type="Na">者</w>
+            <w type="Na">家屬</w>
+            <w type="P">跟</w>
+         </s>
+      </comment>
+      <comment author="Lailungsheng" c_type="neu">
+         <s>
+            <w type="Na">殺人犯</w>
+            <w type="VA">坐下來</w>
+            <w type="VE">談</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Na">修復式</w>
+            <w type="Na">司法</w>
+            <w type="QUESTIONCATEGORY">？</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>
