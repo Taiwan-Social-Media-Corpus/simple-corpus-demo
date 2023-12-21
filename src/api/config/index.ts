@@ -4,13 +4,10 @@ require('dotenv').config();
 
 const configSchema = z
   .object({
-    // redis
-    REDIS_URL: z.string().min(1),
     // blacklab
     BLACKLAB_HOST: z.string().min(1),
   })
   .transform((env) => ({
-    redisURL: env.REDIS_URL,
     blackURL: `http://${env.BLACKLAB_HOST}:8080/blacklab-server`,
   }));
 
