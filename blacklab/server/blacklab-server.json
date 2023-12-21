@@ -1,0 +1,10 @@
+{
+  "configVersion": 2,
+  "indexLocations": ["/data/indexes"],
+  "parameters": {
+    "pageSize": {
+      "default": 50,
+      "max": -1
+    }
+  }
+}
