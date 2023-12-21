@@ -1,0 +1,98 @@
+<TEI.2>
+   <teiHeader>
+      <metadata name="media">dcard</metadata>
+      <metadata name="author">國立臺中科技大學</metadata>
+      <metadata name="post_id">230470540</metadata>
+      <metadata name="year">2019</metadata>
+      <metadata name="board">midnightlab-dcard</metadata>
+      <metadata name="title">這裡可以發廢文嗎🤔</metadata>
+   </teiHeader>
+   <text>
+      <title author="國立臺中科技大學">
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="D">可以</w>
+            <w type="VD">發</w>
+            <w type="Na">廢文</w>
+            <w type="T">嗎</w>
+            <w type="ETCCATEGORY">🤔</w>
+         </s>
+      </title>
+      <body author="國立臺中科技大學">
+         <s>
+            <w type="P">從</w>
+            <w type="VC">通知</w>
+            <w type="VA">進來</w>
+            <w type="DE">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">不</w>
+            <w type="VK">知道</w>
+            <w type="D">能不能</w>
+            <w type="VD">發發</w>
+            <w type="Na">廢文</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="Nh">我</w>
+            <w type="D">會</w>
+            <w type="VH">努力</w>
+            <w type="VC">湊</w>
+            <w type="Neu">15</w>
+            <w type="Na">字</w>
+            <w type="T">的</w>
+            <w type="ETCCATEGORY">😶</w>
+         </s>
+      </body>
+      <comment author="大同大學" c_type="pos" c_gender="F">
+         <s>
+            <w type="Ncd">這裡</w>
+            <w type="D">又</w>
+            <w type="D">不</w>
+            <w type="SHI">是</w>
+            <w type="Na">廢文版</w>
+            <w type="FW">=   =</w>
+         </s>
+      </comment>
+      <comment author="國立臺北商業大學" c_type="" c_gender="M">
+         <s>
+            <w type="Nh">我</w>
+            <w type="D">也</w>
+            <w type="P">從</w>
+            <w type="VC">通知</w>
+            <w type="VA">進來</w>
+            <w type="VC">惹</w>
+         </s>
+      </comment>
+      <comment author="原PO - 國立臺中科技大學" c_type="" c_gender="F">
+         <s>
+            <w type="FW">B1</w>
+            <w type="D">就</w>
+            <w type="VE">想說</w>
+            <w type="VH">無聊</w>
+            <w type="VC">測試</w>
+            <w type="Di">看看</w>
+            <w type="T">啊</w>
+            <w type="EXCLAMATIONCATEGORY">！</w>
+            <w type="D">畢竟</w>
+            <w type="D">要</w>
+            <w type="VCL">進入</w>
+            <w type="D">不</w>
+            <w type="VH">容易</w>
+            <w type="FW">B2</w>
+            <w type="P">跟</w>
+            <w type="Nh">我</w>
+            <w type="Ng">一樣</w>
+            <w type="SHI">是</w>
+            <w type="P">從</w>
+            <w type="VC">通知</w>
+            <w type="VA">進來</w>
+            <w type="T">的</w>
+            <w type="COMMACATEGORY">，</w>
+            <w type="D">就</w>
+            <w type="VE">想說</w>
+            <w type="VC">刷</w>
+            <w type="Di">個</w>
+            <w type="Na">存在感</w>
+            <w type="ETCCATEGORY">🤔</w>
+         </s>
+      </comment>
+   </text>
+</TEI.2>
