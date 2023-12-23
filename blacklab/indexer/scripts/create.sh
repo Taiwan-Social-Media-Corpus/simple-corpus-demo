@@ -32,4 +32,4 @@ else
 fi
 
 # after indexing, remove the tei data
-rm -f $inputFiles/*.xml
+rm -rf $inputFiles/*.xml
