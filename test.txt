@@ -1,0 +1,12 @@
+{
+    "word": "我",
+    "media": "dcard",
+    "cqlEnable": false,
+    "postType": "",
+    "boards": ["midnightlab"],
+    "start": "2001",
+    "end": "2023",
+    "windowSize": "5",
+    "page": 1,
+    "fetchNumber": 10
+}
