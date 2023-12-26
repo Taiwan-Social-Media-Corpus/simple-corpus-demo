@@ -1,0 +1,24 @@
+version: "3"
+
+services:
+  api:
+    build: .
+    ports:
+      - 3000:3000
+    depends_on:
+      blacklab:
+        condition: service_started
+    command: > 
+      bash -c "
+              export BLACKLAB_HOST=\"$$(dig +short blacklab)\" &&
+              pnpm run dev
+              "
+  
+  blacklab:
+    build: ./blacklab
+    volumes:
+      - ./blacklab/indexer/data:/data/indexer/data
+    command: >
+      bash -c "/data/indexer/scripts/create.sh &&
+               catalina.sh run
+              "
